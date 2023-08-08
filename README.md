@@ -1,6 +1,6 @@
 # LongOmics Project
 
-## Major Reserach Project - Master Bioinfomratics and Systems Biology, Vrije Universiteit Amsterdam
+## Major Research Project - Master Bioinformatics and Systems Biology, Vrije Universiteit Amsterdam
 
 
 The interactive application (```streamlit_app.py```) has been developed within the Long-omics project. It provides functionalities to get insights about Nanopore Long Read samples.
